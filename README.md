@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sobre Mim:
 
-<!--
-**EduardoCRVGofc/EduardoCRVGofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Eduardo Carneiro Dos Santos
+- Ensino Médio
 
-Here are some ideas to get you started:
+### Conhecimentos:
+- Animação Básica
+- Programação Básica
+- Edição Intermediária
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Jogador Favorito:
+
+![](https://media.tenor.com/ZL7VJ7DRot0AAAAM/vegetti-vasco.gif)
